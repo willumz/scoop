@@ -6,7 +6,7 @@
     "url": "https://github.com/willumz/badgerclips/releases/download/v0.1.0/badgerclips.exe",
     "bin": "badgerclips.exe",
     "checkver": {
-        "url": "https://github.com/willumz/badgerclips/releases/tag/",
+        "url": "https://api.github.com/repositories/1006347022/releases",
         "regex": "https://github.com/willumz/badgerclips/releases/tag/v([\\d.]+)"
     },
     "autoupdate": {
